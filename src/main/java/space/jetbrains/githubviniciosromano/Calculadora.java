@@ -1,4 +1,4 @@
-package io.github.viniciosromano;
+package space.jetbrains.githubviniciosromano;
 
 public class Calculadora {
     public int somar(int a, int b) {

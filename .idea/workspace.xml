@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97b0e7f7-8b81-42c8-8658-f1e6a191e5e9" name="Changes" comment="Up">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spacegithub-viniciosromano/jetbrains/git/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/jetbrains/github-viniciosromano/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/space/jetbrains/github-viniciosromano/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/space/jetbrains/githubviniciosromano/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,13 @@
       <workItem from="1710513259250" duration="44000" />
       <workItem from="1710535750787" duration="650000" />
       <workItem from="1710764707343" duration="47000" />
-      <workItem from="1710776043177" duration="522000" />
+      <workItem from="1710776043177" duration="770000" />
+      <workItem from="1710777042789" duration="1518000" />
+      <workItem from="1710789782510" duration="107000" />
+      <workItem from="1710794653237" duration="112000" />
+      <workItem from="1710794806397" duration="84000" />
+      <workItem from="1710795055352" duration="56000" />
+      <workItem from="1710795337476" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="Up pom.xml">
       <option name="closed" value="true" />
